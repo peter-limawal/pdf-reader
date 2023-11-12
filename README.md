@@ -14,7 +14,7 @@ Features:
   - Undo: undo previous action
   - Redo: redo previous action that was undone
 
-## Here's a quick demo of Space Invaders!
+## Here's a quick demo of PDF Reader!
 
 https://github.com/peter-limawal/pdf-reader/assets/59006829/3607c43c-dd5f-4be7-8534-f4b00d9476b5
 
